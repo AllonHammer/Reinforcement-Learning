@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from rl_glue import RLGlue
 from environment import BaseEnvironment
 from lunar_lander import LunarLanderEnvironment
@@ -10,7 +9,6 @@ from tqdm import tqdm
 import os
 import shutil
 from plot_script import plot_result
-from utils import *
 
 
 

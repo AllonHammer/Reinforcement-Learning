@@ -7,7 +7,7 @@ from utils import *
 # Experiment parameters
 experiment_parameters = {
     "num_runs" : 1,
-    "num_episodes" : 30,
+    "num_episodes" : 300,
     # OpenAI Gym environments allow for a timestep limit timeout, causing episodes to end after
     # some number of timesteps. Here we use the default of 1000.
     "timeout" : 1000
