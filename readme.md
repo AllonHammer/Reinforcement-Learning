@@ -24,7 +24,7 @@ The lander will crash if:
 4. it runs out of fuel 
 5. it touches the ground when x_position ∉ landing_zone (it lands outside the landing zone)
 
-![myimage-alt-tag]("https://github.com/AllonHammer/RL/blob/master/lunar_landar.png")
+![Screenshot](lunar_landar.png)
 
 
 ## Quick Setup
